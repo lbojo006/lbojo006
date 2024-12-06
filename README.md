@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Bojorquez
 - 👀 I’m interested in Machine Learning and Biotechnology
-- 🌱 I’m currently learning C++ and Lua 
+- 🌱 I’m currently developing expertise in c++, HTML, CSS, and JavaScript. 
 - 📫 How to reach me lbojo006@ucr.edu 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I almost lost my finger once
