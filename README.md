@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Luis Bojorquez
 - 👀 I’m interested in Machine Learning and Biotechnology
 - 🌱 I’m currently developing expertise in c++, HTML, CSS, and JavaScript. 
-- 📫 How to reach me lbojo006@ucr.edu 
+- 📫 How to reach me luisbojorquezgoal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I almost lost my finger once
 
