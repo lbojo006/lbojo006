@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Luis Bojorquez
-- 👀 I’m interested in Machine Learning and Biotechnology
-- 🌱 I’m currently developing expertise in c++, HTML, CSS, and JavaScript. 
+- 👀 I’m interested in Machine Learning, Rocket Technology, and Biotech. 
+- 🌱 I’m currently developing expertise in C++, HTML, CSS, JavaScript, React, TypeScript, and Python.
 - 📫 How to reach me luisbojorquezgoal@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I almost lost my finger once
